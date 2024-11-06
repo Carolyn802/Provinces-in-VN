@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Bắc Giang",
+        "capital": "Bắc Giang",
+        "lat": 21.333,
+        "lng": 106.333
+    },
+    {
+        "name": "Bắc Kạn",
+        "capital": "Bắc Kạn",
+        "lat": 22.167,
+        "lng": 105.833
+    },
+    {
+        "name": "Cao Bằng",
+        "capital": "Cao Bằng",
+        "lat": 22.667,
+        "lng": 106
+    },
+    {
+        "name": "Hà Giang",
+        "capital": "Hà Giang",
+        "lat": 22.75,
+        "lng": 105
+    },
+    {
+        "name": "Lạng Sơn",
+        "capital": "Lạng Sơn",
+        "lat": 21.75,
+        "lng": 106.5
+    },
+    {
+        "name": "Phú Thọ",
+        "capital": "Phú Thọ",
+        "lat": 21.333,
+        "lng": 105.167
+    },
+    {
+        "name": "Quảng Ninh",
+        "capital": "Quảng Ninh",
+        "lat": 21.25,
+        "lng": 107.333
+    },
+    {
+        "name": "Thái Nguyên",
+        "capital": "Thái Nguyên",
+        "lat": 21.667,
+        "lng": 105.833
+    },
+    {
+        "name": "Tuyên Quang",
+        "capital": "Tuyên Quang",
+        "lat": 22.117,
+        "lng": 105.25
+    },
+    {
+        "name": "Lào Cai",
+        "capital": "Lào Cai",
+        "lat": 22.333,
+        "lng": 104
+    },
+    {
+        "name": "Yên Bái",
+        "capital": "Yên Bái",
+        "lat": 21.5,
+        "lng": 104.
+    }
+]
